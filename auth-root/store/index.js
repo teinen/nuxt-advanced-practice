@@ -34,3 +34,9 @@ const actions = {
     commit('SET_USER', null)
   }
 }
+
+export default {
+  state,
+  mutations,
+  actions
+}
